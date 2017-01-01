@@ -1,0 +1,13 @@
+.btn {
+  -webkit-transition: all,.1s,linear;
+  -o-transition: all,.1s,linear;
+  transition: all,.1s,linear;
+  border: 0;
+  font-weight: normal;
+  padding: 10px 18px;
+  height: 45px;
+  line-height: 1.55;
+  &:hover {
+    text-decoration: none;
+  }
+}
